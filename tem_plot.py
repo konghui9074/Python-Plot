@@ -74,4 +74,4 @@ ax2.set_xticklabels([],minor=False)
 
 plt.tight_layout()      #set the layout to avoid empty on edges
 
-plt.savefig('temporal.png')
+plt.savefig('tem_plot.png')
